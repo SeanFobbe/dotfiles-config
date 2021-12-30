@@ -17,6 +17,11 @@ ln -s ~/github/dotfiles-config/.gitignore ~/.gitignore
 rm ~/.Rprofile
 ln -s ~/github/dotfiles-config/.Rprofile ~/.Rprofile
 
+mkdir ~/R/R-library-primary
+
+rm ~/.Renviron
+ln -s ~/github/dotfiles-config/.Renviron ~/.Renviron
+
 
 # Modify power save mode in Gnome
 
