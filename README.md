@@ -21,3 +21,4 @@ git clone https://github.com/SeanFobbe/dotfiles-config
 
 - .gitconfig (global) contains sensitive information and should be transferred between machines via secure means.
 - .git-credentials stores personal access token (PAT) in plaintext and should not be used; prefer encrypted local storage options
+- .Renviron stores R environment variables and should not be committed to git; part of .gitignore

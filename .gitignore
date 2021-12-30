@@ -5,7 +5,10 @@
 # Most of this file is sourced from the templates available here: https://github.com/github/gitignore
 
 
+#--- Git ---
 
+.git-credentials
+.gitconfig
 
 
 #--- Emacs ---
@@ -84,6 +87,9 @@ flycheck_*.el
 
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
+
+
+
 
 
 ###--- R ---
