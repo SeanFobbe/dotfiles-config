@@ -51,4 +51,3 @@ zen4R
 rnaturalearth
 sp
 sf
-rstan
