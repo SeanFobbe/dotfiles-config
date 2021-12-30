@@ -20,7 +20,7 @@ ln -s ~/github/dotfiles-config/.Rprofile ~/.Rprofile
 mkdir ~/R/R-library-primary
 
 rm ~/.Renviron
-ln -s ~/github/dotfiles-config/.Renviron ~/.Renviron
+ln -s ~/github/dotfiles-config/dot_Renviron ~/.Renviron
 
 
 # Modify power save mode in Gnome
