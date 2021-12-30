@@ -21,8 +21,6 @@ libuninum
 openblas-devel
 gdal-devel
 proj-devel
-proj-epsg
-proj-nad
 geos-devel
 sqlite-devel
 udunits2-devel
