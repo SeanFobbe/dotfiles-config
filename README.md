@@ -17,6 +17,10 @@ git clone https://github.com/SeanFobbe/dotfiles-config
 04_git_clone_all.sh      # clones my personal repositories
 ```
 
+# Warnings
+
+- The R install script overwrites the .Renviron file with a set library path without the user being prompted; this is by design to ensure a clean .Renviron file when setting up a new system
+
 # Sensitive Files
 
 - .gitconfig (global) contains sensitive information and should be transferred between machines via secure means.
