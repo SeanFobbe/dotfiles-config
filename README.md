@@ -20,6 +20,7 @@ git clone https://github.com/SeanFobbe/dotfiles-config
 # Warnings
 
 - The R install script overwrites the .Renviron file with a set library path without the user being prompted; this is by design to ensure a clean .Renviron file when setting up a new system
+- Many R packages require compilation due to C++ components, which can take several hours on weaker machines
 
 # Sensitive Files
 
