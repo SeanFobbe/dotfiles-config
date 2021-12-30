@@ -11,7 +11,7 @@ library <- "~/R/R-library-primary"
 dir.create(library)
 
 # Set primary library path in .Renviron
-write.table("R_LIBS = ~/R/R-library-primary",
+write.table("R_LIBS=~/R/R-library-primary",
             "~/.Renviron",
             quote = FALSE,
             row.names = FALSE,
