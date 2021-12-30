@@ -1,6 +1,5 @@
 git
 jq
-curl
 emacs
 emacs-ess
 texlive-scheme-full
