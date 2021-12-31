@@ -31,3 +31,5 @@ tesseract
 tesseract-langpack-fra
 tesseract-langpack-deu
 tesseract-langpack-spa
+cmatrix
+sl
