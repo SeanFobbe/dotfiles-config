@@ -9,7 +9,6 @@ echo "====================================================================="
 # === Dot Files ===
 echo
 echo "=== Dot Files ==="
-echo
 echo "Removes old dot files, if present, and replaces them with links to the dot files in the local git repository."
 echo
 
@@ -37,7 +36,6 @@ done
 # === Create Folders ===
 echo
 echo "=== Create Folders ==="
-echo
 echo "Creates folders, if not already present. Prints message otherwise."
 echo
 
@@ -46,8 +44,10 @@ do
     if [ ! -d ${f} ]; then
 	mkdir ${f}
 	echo "Created ${f}."
+	echo
     else
 	echo "${f} already exists."
+	echo
     fi
 done
 
@@ -58,7 +58,6 @@ done
 
 echo
 echo "=== Deactivate Power Save Mode ==="
-echo
 echo "Note: can be reversed by using 'unmask' in the same command."
 echo
 
