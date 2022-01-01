@@ -33,4 +33,5 @@ tesseract-langpack-deu
 tesseract-langpack-spa
 cmatrix
 sl
+aalib
 newsboat
