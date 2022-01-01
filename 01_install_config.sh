@@ -7,6 +7,31 @@ echo "====================================================================="
 
 
 
+
+
+
+# === Create Folders ===
+echo
+echo "=== Create Folders ==="
+echo "Creates folders, if not already present. Prints message otherwise."
+echo
+
+for f in ~/R ~/R/R-library-primary ~/Sync
+do
+    if [ ! -d ${f} ]; then
+	mkdir ${f}
+	echo "Created ${f}."
+	echo
+    else
+	echo "${f} already exists."
+	echo
+    fi
+done
+
+
+
+
+
 # === Dot Files ===
 echo
 echo "=== Dot Files ==="
@@ -30,27 +55,6 @@ do
     
 done
 
-
-
-
-
-# === Create Folders ===
-echo
-echo "=== Create Folders ==="
-echo "Creates folders, if not already present. Prints message otherwise."
-echo
-
-for f in ~/R ~/R/R-library-primary ~/Sync
-do
-    if [ ! -d ${f} ]; then
-	mkdir ${f}
-	echo "Created ${f}."
-	echo
-    else
-	echo "${f} already exists."
-	echo
-    fi
-done
 
 
 
