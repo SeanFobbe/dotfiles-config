@@ -25,10 +25,9 @@ done
 mkdir ~/R/R-library-primary
 
 
-#=== Power Save Mode in Gnome ===
+#=== Deactivate Power Save Mode ===
 
-gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-ac-type 'nothing'
-gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-battery-type 'suspend'
+sudo systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.target
 
 
 echo "Completed setup of dotfiles and other config."
