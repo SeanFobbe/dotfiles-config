@@ -10,8 +10,8 @@ fi
 
 # User specific aliases and functions
 
-alias csv='column -s, -t' # used to display csv files in command line
-alias t='tree -L'
+alias csv='column -s, -t' # Display csv files in command line.
+alias t='tree -L' # Quick tree analysis of folders with flexible level.
 
 # Usage: gh-clone-user (user)
 gh-clone-user() {
