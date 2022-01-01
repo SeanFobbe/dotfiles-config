@@ -5,6 +5,8 @@ echo "BEGIN - Beginning setup of dotfiles, folders and other configuration."
 echo "====================================================================="
 
 
+
+
 # === Dot Files ===
 
 echo "=== Dot Files ==="
@@ -29,6 +31,8 @@ done
 
 
 
+
+
 # === Create Folders ===
 
 echo "=== Create Folders ==="
@@ -45,7 +49,12 @@ do
 done
 
 
+
+
 # === Deactivate Power Save Mode ===
+
+echo "=== Deactive Power Save Mode ==="
+echo "Note: can be reversed by using 'unmask' in the same command."
 
 sudo systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.target
 
@@ -55,6 +64,6 @@ sudo systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.ta
 
 # === END ===
 
-echo "===================================================="
-echo "END - Completed setup of dotfiles and other config."
-echo "===================================================="
+echo "======================"
+echo "END - Setup completed."
+echo "======================"
