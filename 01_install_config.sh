@@ -1,5 +1,6 @@
 # === Begin ===
 
+echo
 echo "====================================================================="
 echo "BEGIN - Beginning setup of dotfiles, folders and other configuration."
 echo "====================================================================="
@@ -74,3 +75,4 @@ echo
 echo "======================"
 echo "END - Setup completed."
 echo "======================"
+echo
