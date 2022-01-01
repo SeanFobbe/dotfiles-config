@@ -1,6 +1,8 @@
-echo "Beginning setup of dotfiles and config."
+# === Begin ===
 
-#=== Dot Files ===
+echo "BEGIN - Beginning setup of dotfiles, folders and other configuration."
+
+# === Dot Files ===
 # This section removes old dot files, if present, and replaces them with links to the dot files in the local git repository.
 
 for f in .bash_profile .bashrc .emacs .gitignore .Rprofile
@@ -20,14 +22,27 @@ do
 done
 
 
-#=== Create Folders ===
+# === Create Folders ===
 
-mkdir ~/R/R-library-primary
+for f in ~/R/R-library-primary
+do
+    if [ ! -d ${f} ]; then
+	mkdir ${f}
+	echo "Created ${f}."
+    else
+	echo "${f} already exists."
+    fi
+done
 
 
-#=== Deactivate Power Save Mode ===
+# === Deactivate Power Save Mode ===
 
 sudo systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.target
 
 
-echo "Completed setup of dotfiles and other config."
+
+
+
+# === END ===
+
+echo "END - Completed setup of dotfiles and other config."
