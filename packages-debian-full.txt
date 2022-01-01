@@ -39,4 +39,5 @@ mesa-vulkan-drivers
 xserver-xorg-video-all
 cmatrix
 sl
+libaa-bin
 newsboat
