@@ -7,7 +7,7 @@
 
 https://chainsawriot.com/feed.xml		"R"  # Chung-hong Chan
 https://www.apreshill.com/blog/index.xml	"R"  # Alison Hill
-https://varianceexplained.org/feed.xml		"R"  # David Robinson
+http://varianceexplained.org/feed.xml		"R"  # David Robinson
 https://nanx.me/index.xml			"R"  # Nan Xiao
 
 
@@ -30,7 +30,7 @@ https://eagereyes.org/feed 				"Visualization"  # Eager Eyes [Robert Kosara]
 
 #===   Cognitive and Behavioral Science  ===
 
-http://datacolada.org/feed 				"Cognitive and Behavioral Science"  # Data Colada
+https://datacolada.org/feed 				"Cognitive and Behavioral Science"  # Data Colada
 https://languagelog.ldc.upenn.edu/nll/?feed=atom	"Cognitive and Behavioral Science"  # Language Log
 https://thehardestscience.com/feed 			"Cognitive and Behavioral Science"  # The Hardest Science
 
