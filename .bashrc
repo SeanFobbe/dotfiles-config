@@ -10,6 +10,7 @@ fi
 
 # User specific aliases and functions
 
+alias csv='column -s, -t' # used to display csv files in command line
 
 # Usage: gh-clone-user (user)
 gh-clone-user() {
