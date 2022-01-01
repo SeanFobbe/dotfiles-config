@@ -39,3 +39,4 @@ mesa-vulkan-drivers
 xserver-xorg-video-all
 cmatrix
 sl
+newsboat
