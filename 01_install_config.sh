@@ -1,26 +1,31 @@
 echo "Beginning setup of dotfiles and config."
 
-# Remove old dotfiles and link new dotfiles
+#=== Dot Files ===
+# This section removes old dot files, if present, and replaces them with links to the dot files in the local git repository.
 
-rm ~/.bash_profile
-ln -s ~/github/dotfiles-config/.bash_profile ~/.bash_profile
+for f in .bash_profile .bashrc .emacs .gitignore .Rprofile
+do
+    echo "=== ${f} ==="
+    
+    if [ -e ${f} ]
+    then
+	echo "Found old ${f}."
+	rm ~/${f}
+	echo "Deleted old ${f}."
+    fi
 
-rm ~/.bashrc
-ln -s ~/github/dotfiles-config/.bashrc ~/.bashrc
+    ln -s ~/github/dotfiles-config/${f} ~/${f}
+    echo "Linked new ${f} from local git repository."
+    
+done
 
-rm ~/.emacs
-ln -s ~/github/dotfiles-config/.emacs ~/.emacs
 
-rm ~/.gitignore
-ln -s ~/github/dotfiles-config/.gitignore ~/.gitignore
-
-rm ~/.Rprofile
-ln -s ~/github/dotfiles-config/.Rprofile ~/.Rprofile
+#=== Create Folders ===
 
 mkdir ~/R/R-library-primary
 
 
-# Modify power save mode in Gnome
+#=== Power Save Mode in Gnome ===
 
 gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-ac-type 'nothing'
 gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-battery-type 'suspend'
