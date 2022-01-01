@@ -84,7 +84,7 @@ https://www.debian.org/News/news	"Operating Systems"  # Debian
 
 https://krebsonsecurity.com/feed/			"Infosec"  # Brian Krebs
 https://www.schneier.com/feed/atom			"Infosec"  # Bruce Schneier
-https://www.dwheeler.com/blog/index.rss			"Infosec"  # David Wheeler
+http://www.dwheeler.com/blog/index.rss			"Infosec"  # David Wheeler
 https://www.heise.de/security/rss/news-atom.xml		"Infosec"  # Heise Security
 https://www.heise.de/security/rss/alert-news-atom.xml   "Infosec"  # Heise Security Alerts
 
