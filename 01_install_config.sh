@@ -57,7 +57,7 @@ done
 # === Deactivate Power Save Mode ===
 
 echo
-echo "=== Deactivatee Power Save Mode ==="
+echo "=== Deactivate Power Save Mode ==="
 echo
 echo "Note: can be reversed by using 'unmask' in the same command."
 echo
