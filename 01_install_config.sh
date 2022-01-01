@@ -9,8 +9,8 @@ echo "====================================================================="
 
 # === Dot Files ===
 
-echo "=== Dot Files ==="
-echo "Removes old dot files, if present, and replaces them with links to the dot files in the local git repository."
+echo "\n=== Dot Files ===\n"
+echo "Removes old dot files, if present, and replaces them with links to the dot files in the local git repository.\n\n"
 
 
 for f in .bash_profile .bashrc .emacs .gitignore .Rprofile
@@ -35,8 +35,8 @@ done
 
 # === Create Folders ===
 
-echo "=== Create Folders ==="
-echo "Creates folders, if not already present. Prints message otherwise."
+echo "\n=== Create Folders ===\n"
+echo "Creates folders, if not already present. Prints message otherwise.\n\n"
 
 for f in ~/R/R-library-primary
 do
@@ -53,8 +53,8 @@ done
 
 # === Deactivate Power Save Mode ===
 
-echo "=== Deactive Power Save Mode ==="
-echo "Note: can be reversed by using 'unmask' in the same command."
+echo "\n=== Deactive Power Save Mode ===\n"
+echo "Note: can be reversed by using 'unmask' in the same command.\n\n"
 
 sudo systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.target
 
@@ -64,6 +64,6 @@ sudo systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.ta
 
 # === END ===
 
-echo "======================"
+echo "\n======================"
 echo "END - Setup completed."
 echo "======================"
