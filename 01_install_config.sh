@@ -63,6 +63,7 @@ echo
 
 sudo systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.target
 
+echo "Sleep, suspend, hibernate and hybrid-sleep deactivated."
 
 
 
