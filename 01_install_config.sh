@@ -16,7 +16,7 @@ echo "=== Create Folders ==="
 echo "Creates folders, if not already present. Prints message otherwise."
 echo
 
-for f in ~/R ~/R/R-library-primary ~/Sync
+for f in ~/R ~/R/R-library-primary ~/Sync ~/.newsboat
 do
     if [ ! -d ${f} ]; then
 	mkdir ${f}
