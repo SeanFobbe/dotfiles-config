@@ -5,10 +5,10 @@
 
 #===  R  ===
 
-https://chainsawriot.com/feed.xml		# Chung-hong Chan
-https://www.apreshill.com/blog/index.xml	# Alison Hill
-http://varianceexplained.org/feed.xml		# David Robinson
-https://nanx.me/index.xml			# Nan Xiao
+https://chainsawriot.com/feed.xml		R # Chung-hong Chan
+https://www.apreshill.com/blog/index.xml	R # Alison Hill
+http://varianceexplained.org/feed.xml		R # David Robinson
+https://nanx.me/index.xml			R # Nan Xiao
 
 
 
@@ -82,10 +82,11 @@ https://www.debian.org/News/news	# Debian
 
 #=== Infosec  ===
 
-https://krebsonsecurity.com/feed/		# Brian Krebs
-https://www.schneier.com/feed/atom		# Bruce Schneier
-https://www.dwheeler.com/blog/index.rss		# David Wheeler
-
+https://krebsonsecurity.com/feed/			# Brian Krebs
+https://www.schneier.com/feed/atom			# Bruce Schneier
+https://www.dwheeler.com/blog/index.rss			# David Wheeler
+https://www.heise.de/security/rss/news-atom.xml		# Heise Security
+https://www.heise.de/security/rss/alert-news-atom.xml   # Heise Security Alerts
 
 
 #==== Legal (German)  ===
