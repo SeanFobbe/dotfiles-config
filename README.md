@@ -4,12 +4,11 @@ This is a repository to store dotfiles and install scripts for my Linux configur
 
 # Usage
 
-Dotfile and config installation assumes the presence of ~/github/dotfiles-config, therefore run:
+Dotfile and config installation assumes the presence of ~/github/dotfiles-config, therefore run in order:
 
 ```
-mkdir ~/github
-cd ~/github
-git clone https://github.com/SeanFobbe/dotfiles-config
+git clone https://github.com/SeanFobbe/dotfiles-config ~/github/dotfiles-config
+cd ~/github/dotfiles-config
 01_install_config.sh            # Installs dotfiles and config
 02_install_packages_debian.sh   # use only on Debian; installs common .deb packages and dependencies for R packages
 02_install_packages_fedora.sh   # use only on Fedora; installs common .rpm packages and dependencies for R packages
