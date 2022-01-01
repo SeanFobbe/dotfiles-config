@@ -7,16 +7,16 @@
 
 https://chainsawriot.com/feed.xml		"R"  # Chung-hong Chan
 https://www.apreshill.com/blog/index.xml	"R"  # Alison Hill
-http://varianceexplained.org/feed.xml		"R"  # David Robinson
+https://varianceexplained.org/feed.xml		"R"  # David Robinson
 https://nanx.me/index.xml			"R"  # Nan Xiao
 
 
 
 #===  Data Science  ===
 
-http://www.andreykurenkov.com/writing/feed.xml/		"Data Science"  # Andrey Kurenkov
-http://www.erogol.com/feed/ 				"Data Science"  # A Blog From a Human-engineer-being
-http://peekaboo-vision.blogspot.com/atom.xml 		"Data Science"  # Andreas Müller
+https://www.andreykurenkov.com/writing/feed.xml/	"Data Science"  # Andrey Kurenkov
+https://www.erogol.com/feed/ 				"Data Science"  # A Blog From a Human-engineer-being
+https://peekaboo-vision.blogspot.com/atom.xml 		"Data Science"  # Andreas Müller
 https://steamtraen.blogspot.com/feeds/posts/default	"Data Science"  # Nick Brown
 
 
