@@ -38,7 +38,7 @@ echo "=== Dot Files ==="
 echo "Removes old dot files, if present, and replaces them with links to the dot files in the local git repository."
 echo
 
-for f in .bash_profile .bashrc .emacs .gitignore .Rprofile ~/.newsboat/config ~/.newsboat/urls
+for f in .bash_profile .bashrc .emacs .gitignore .Rprofile .newsboat/config .newsboat/urls
 do
     echo "--- ${f} ---"
     
