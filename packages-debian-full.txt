@@ -20,6 +20,7 @@ libmagick++-dev
 libpoppler-cpp-dev
 libsodium-dev
 libudunits2-dev
+libcairo2-dev
 gdal-bin
 proj-bin
 libgdal-dev
