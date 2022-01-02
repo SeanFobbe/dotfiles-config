@@ -1,3 +1,4 @@
+tree
 git
 jq
 curl
