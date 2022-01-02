@@ -21,6 +21,9 @@ libpoppler-cpp-dev
 libsodium-dev
 libudunits2-dev
 libcairo2-dev
+libpango1.0-dev
+libjpeg-dev
+libgif-dev
 gdal-bin
 proj-bin
 libgdal-dev
