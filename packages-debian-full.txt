@@ -41,3 +41,4 @@ cmatrix
 sl
 libaa-bin
 newsboat
+xclip
