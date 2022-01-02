@@ -15,6 +15,7 @@ libcurl-devel
 openssl-devel
 libjpeg-turbo-devel
 poppler-cpp-devel
+cairo-devel
 gsl-devel
 libuninum
 openblas-devel
