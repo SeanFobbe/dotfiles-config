@@ -35,3 +35,4 @@ cmatrix
 sl
 aalib
 newsboat
+xclip
