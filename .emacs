@@ -26,6 +26,8 @@
  '(global-visual-line-mode t)
  '(inhibit-startup-screen t)
  '(package-selected-packages '(auctex markdown-mode elpy)))
+(when (version<= "26.0.50" emacs-version )
+  (global-display-line-numbers-mode))
 
  	
 
