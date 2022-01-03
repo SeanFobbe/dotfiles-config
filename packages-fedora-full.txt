@@ -37,3 +37,4 @@ sl
 aalib
 newsboat
 xclip
+sensors
