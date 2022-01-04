@@ -25,6 +25,7 @@ geos-devel
 sqlite-devel
 udunits2-devel
 libsodium-devel
+openssl
 gimp
 ImageMagick
 ImageMagick-c++-devel
