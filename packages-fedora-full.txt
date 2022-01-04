@@ -37,4 +37,4 @@ sl
 aalib
 newsboat
 xclip
-lm-sensors
+lm_sensors
