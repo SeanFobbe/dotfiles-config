@@ -22,9 +22,11 @@
  '(auth-source-save-behavior nil)
  '(custom-enabled-themes '(wombat))
  '(diff-switches "-u")
+ '(global-display-line-numbers-mode t)
  '(global-visual-line-mode t)
  '(inhibit-startup-screen t)
- '(package-selected-packages '(flycheck auctex markdown-mode elpy)))
+ '(package-selected-packages '(flycheck auctex markdown-mode elpy))
+ '(save-place-mode t))
 (when (version<= "26.0.50" emacs-version )
   (global-display-line-numbers-mode))
 
