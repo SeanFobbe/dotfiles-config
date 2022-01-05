@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Add Repositories
 
 sudo apt-add-repository non-free
