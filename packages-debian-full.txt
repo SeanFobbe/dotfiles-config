@@ -48,3 +48,4 @@ libaa-bin
 newsboat
 xclip
 sensors-applet
+shellcheck
