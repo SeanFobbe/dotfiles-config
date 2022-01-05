@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Based on this SO answer: https://stackoverflow.com/questions/19576742/how-to-clone-all-repos-at-once-from-github
 
 sudo dnf install curl jq git -y
