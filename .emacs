@@ -25,9 +25,12 @@
  '(diff-switches "-u")
  '(global-visual-line-mode t)
  '(inhibit-startup-screen t)
- '(package-selected-packages '(auctex markdown-mode elpy)))
+ '(package-selected-packages '(flycheck auctex markdown-mode elpy)))
 (when (version<= "26.0.50" emacs-version )
   (global-display-line-numbers-mode))
+
+;; Activate Flycheck in Shell Buffers
+(add-hook 'sh-mode-hook 'flycheck-mode)
 
  	
 
