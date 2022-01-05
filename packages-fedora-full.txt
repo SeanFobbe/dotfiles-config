@@ -39,3 +39,4 @@ aalib
 newsboat
 xclip
 lm_sensors
+ShellCheck
