@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Update System
 
 sudo dnf update -y
