@@ -4,6 +4,6 @@
 
 sudo dnf install curl jq git -y
 
-cd ~/github
+cd ~/github || exit
 
 curl -sL "https://api.github.com/users/SeanFobbe/repos?per_page=1000" | jq -r '.[]|.clone_url' | xargs -L1 git clone
