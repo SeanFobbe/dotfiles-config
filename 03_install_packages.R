@@ -1,3 +1,6 @@
+#!/usr/bin/Rscript
+
+
 # Read full package list
 fullpackages <- readLines('packages-R-full.txt')
 
