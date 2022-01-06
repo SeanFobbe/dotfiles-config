@@ -17,14 +17,14 @@ cd ~/github/dotfiles-config
 ./01_install_config.sh            # Installs dotfiles and config
 
 # Step 2: Install and update system packages
-./02_install_packages_debian.sh   # use only on Debian; installs common .deb packages and dependencies for R packages
-./02_install_packages_fedora.sh   # use only on Fedora; installs common .rpm packages and dependencies for R packages
+./02_install_packages_debian.sh   # for Debian; installs my preferred .deb packages and R package system dependencies
+./02_install_packages_fedora.sh   # for Fedora; installs my preferred .rpm packages and R package system dependencies
 
 # Step 3: Install and compile R packages
-03_install_packages.R    # installs common R packages for my data science workflow
+./03_install_packages.R    # my preferred R packages
 
 # Step 4: Clone all other Github repos
-04_git_clone_all.sh      # clones my personal repositories
+./04_git_clone_all.sh      # clones my personal repositories
 ```
 
 # Warnings
