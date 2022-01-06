@@ -7,12 +7,23 @@ This is a repository to store dotfiles and install scripts for my Linux configur
 Dotfile and config installation assumes the presence of ~/github/dotfiles-config, therefore run in order:
 
 ```
+# Clone repository
 git clone https://github.com/SeanFobbe/dotfiles-config ~/github/dotfiles-config
+
+# Change directory
 cd ~/github/dotfiles-config
-01_install_config.sh            # Installs dotfiles and config
-02_install_packages_debian.sh   # use only on Debian; installs common .deb packages and dependencies for R packages
-02_install_packages_fedora.sh   # use only on Fedora; installs common .rpm packages and dependencies for R packages
+
+# Step 1: Install config
+./01_install_config.sh            # Installs dotfiles and config
+
+# Step 2: Install and update system packages
+./02_install_packages_debian.sh   # use only on Debian; installs common .deb packages and dependencies for R packages
+./02_install_packages_fedora.sh   # use only on Fedora; installs common .rpm packages and dependencies for R packages
+
+# Step 3: Install and compile R packages
 03_install_packages.R    # installs common R packages for my data science workflow
+
+# Step 4: Clone all other Github repos
 04_git_clone_all.sh      # clones my personal repositories
 ```
 
