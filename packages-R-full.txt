@@ -52,3 +52,4 @@ rnaturalearth
 sp
 sf
 rtweet
+beepr
