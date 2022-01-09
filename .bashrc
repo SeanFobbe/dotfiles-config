@@ -17,3 +17,9 @@ alias t='tree -L' # Quick tree analysis of folders with flexible level.
 gh-clone-user() {
   curl -sL "https://api.github.com/users/$1/repos?per_page=1000" | jq -r '.[]|.clone_url' | xargs -L1 git clone
 }
+
+# Usage: beep sleep tone
+beep() {
+    sleep $1
+    Rscript -e "beepr::beep($2)"
+    }
