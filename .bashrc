@@ -18,7 +18,7 @@ gh-clone-user() {
   curl -sL "https://api.github.com/users/$1/repos?per_page=1000" | jq -r '.[]|.clone_url' | xargs -L1 git clone
 }
 
-# Usage: beep sleep tone
+# Usage: beep [sleep (s)] [tone (1 to 12)]
 beep() {
     Rscript -e "Sys.sleep($1); beepr::beep($2)"
     }
