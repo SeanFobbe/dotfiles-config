@@ -29,6 +29,7 @@ qgraph
 ggrepel
 stringi
 stringr
+mgsub
 devtools
 httr
 knitr
@@ -39,10 +40,12 @@ rvest
 xml2
 targets
 pdftools
+readtext
 quanteda
 quanteda.textmodels
 quanteda.textstats
 quanteda.textplots
+spacyr
 lda
 stm
 textcat
