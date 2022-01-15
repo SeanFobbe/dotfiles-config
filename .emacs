@@ -13,8 +13,6 @@
 (package-initialize)
 
 
-(require 'uniquify)
-(setq uniquify-buffer-name-style 'post-forward-angle-brackets)
 
 
 (custom-set-variables
@@ -52,6 +50,8 @@
 (add-hook 'after-init-hook #'global-flycheck-mode)
   (add-hook 'ess-mode-hook
             (lambda () (flycheck-mode t)))
+
+
 
  	
 ;; AucTeX Options
