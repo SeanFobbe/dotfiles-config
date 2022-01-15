@@ -39,8 +39,9 @@
   (package-refresh-contents))
 (package-install-selected-packages)
 
-
-
+;; Reftex
+(require 'reftex)
+(add-hook 'LaTeX-mode-hook 'turn-on-reftex)
 
 
 ;; Activate Flycheck in Shell Buffers
