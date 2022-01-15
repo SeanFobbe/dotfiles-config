@@ -35,6 +35,16 @@
 (when (version<= "26.0.50" emacs-version )
   (global-display-line-numbers-mode))
 
+
+;; Automatically install packages of not already present
+(unless package-archive-contents
+  (package-refresh-contents))
+(package-install-selected-packages)
+
+
+
+
+
 ;; Activate Flycheck in Shell Buffers
 (add-hook 'sh-mode-hook 'flycheck-mode)
 
