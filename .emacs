@@ -12,6 +12,11 @@
 ;; You may delete these explanatory comments.
 (package-initialize)
 
+
+(require 'uniquify)
+(setq uniquify-buffer-name-style 'post-forward-angle-brackets)
+
+
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -32,6 +37,11 @@
 
 ;; Activate Flycheck in Shell Buffers
 (add-hook 'sh-mode-hook 'flycheck-mode)
+
+;; Activate Flycheck with lintr for R
+(add-hook 'after-init-hook #'global-flycheck-mode)
+  (add-hook 'ess-mode-hook
+            (lambda () (flycheck-mode t)))
 
  	
 ;; AucTeX Options
