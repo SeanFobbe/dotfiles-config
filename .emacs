@@ -28,7 +28,8 @@
  '(global-display-line-numbers-mode t)
  '(global-visual-line-mode t)
  '(inhibit-startup-screen t)
- '(package-selected-packages '(flycheck auctex markdown-mode elpy))
+ '(package-selected-packages
+   '(uniquify-files csv-mode flycheck auctex markdown-mode elpy))
  '(save-place-mode t))
 (when (version<= "26.0.50" emacs-version )
   (global-display-line-numbers-mode))
@@ -42,6 +43,33 @@
 ;; Reftex
 (require 'reftex)
 (add-hook 'LaTeX-mode-hook 'turn-on-reftex)
+
+(setq reftex-cite-format
+      '(
+        (?\C-m . "\\cite[]{%l}")
+        (?t . "\\textcite{%l}")
+        (?a . "\\autocite[]{%l}")
+        (?p . "\\parencite{%l}")
+        (?f . "\\footcite[][]{%l}")
+        (?F . "\\fullcite[]{%l}")
+        (?P . "[@%l]")
+        (?T . "@%l [p. ]")
+        (?x . "[]{%l}")
+        (?X . "{%l}")
+        ))
+
+(setq font-latex-match-reference-keywords
+      '(("cite" "[{")
+        ("cites" "[{}]")
+        ("footcite" "[{")
+        ("footcites" "[{")
+        ("parencite" "[{")
+        ("textcite" "[{")
+        ("fullcite" "[{") 
+        ("citetitle" "[{") 
+        ("citetitles" "[{") 
+        ("headlessfullcite" "[{")))
+
 
 
 ;; Activate Flycheck in Shell Buffers
