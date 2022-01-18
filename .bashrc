@@ -21,4 +21,5 @@ gh-clone-user() {
 # Usage: beep [sleep (s)] [tone (1 to 12)]
 beep() {
     Rscript -e "Sys.sleep($1); beepr::beep($2)"
+    echo "$3"
     }
