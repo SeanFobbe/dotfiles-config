@@ -28,11 +28,18 @@
  '(global-display-line-numbers-mode t)
  '(global-visual-line-mode t)
  '(inhibit-startup-screen t)
+ '(org-agenda-files '("~/Sync/occlear/master.org"))
  '(package-selected-packages
    '(uniquify-files csv-mode flycheck auctex markdown-mode elpy))
  '(save-place-mode t))
 (when (version<= "26.0.50" emacs-version )
   (global-display-line-numbers-mode))
+
+; Highlight current row
+(global-hl-line-mode 1)
+
+; Flash on error
+(setq visible-bell t)
 
 
 ;; Automatically install packages of not already present
