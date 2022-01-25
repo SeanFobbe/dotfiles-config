@@ -28,6 +28,8 @@ libgif-dev
 gdal-bin
 proj-bin
 libgdal-dev
+libharfbuzz-dev
+libfribidi-dev 
 vlc
 libavcodec-extra
 libdvdcss2
