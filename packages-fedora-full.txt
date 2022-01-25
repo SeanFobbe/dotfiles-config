@@ -26,6 +26,8 @@ sqlite-devel
 udunits2-devel
 libsodium-devel
 openssl
+harfbuzz-devel
+fribidi-devel
 gimp
 ImageMagick
 ImageMagick-c++-devel
