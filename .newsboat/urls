@@ -86,7 +86,7 @@ https://krebsonsecurity.com/feed/			"Infosec"  # Brian Krebs
 https://www.schneier.com/feed/atom			"Infosec"  # Bruce Schneier
 https://www.heise.de/security/rss/news-atom.xml		"Infosec"  # Heise Security
 https://www.heise.de/security/rss/alert-news-atom.xml   "Infosec"  # Heise Security Alerts
-
+https://karl-voit.at/feeds/lazyblorg-all.atom_1.0.links-only.xml "Infosec" # Karl Voit
 
 #==== Legal (German)  ===
 
