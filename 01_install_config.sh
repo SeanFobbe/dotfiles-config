@@ -60,6 +60,15 @@ done
 
 
 
+# === Git Config ===
+
+git config --global user.name "Sean Fobbe"
+git config --global pull.rebase false
+git config --global core.editor vim
+git config --global init.defaultBranch main
+git config --global color.ui auto
+git config --global receive.fsckObjects true
+
 
 
 # === Deactivate Power Save Mode ===
