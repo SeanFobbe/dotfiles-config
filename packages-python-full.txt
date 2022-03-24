@@ -4,3 +4,4 @@ numpy
 statsmodels
 seaborn
 matplotlib
+beautifoulsoup
