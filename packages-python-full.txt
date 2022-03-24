@@ -7,3 +7,4 @@ matplotlib
 beautifoulsoup
 jupyterlab
 notebook
+Pweave
