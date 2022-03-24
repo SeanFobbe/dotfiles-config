@@ -75,6 +75,12 @@
         ("headlessfullcite" "[{")))
 
 
+;; Elpy
+(use-package elpy
+  :ensure t
+  :init
+  (elpy-enable))
+
 
 ;; Activate Flycheck in Shell Buffers
 (add-hook 'sh-mode-hook 'flycheck-mode)
