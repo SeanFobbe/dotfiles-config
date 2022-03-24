@@ -16,15 +16,12 @@ cd ~/github/dotfiles-config
 # Step 1: Install config
 ./01_install_config.sh            # Installs dotfiles and config
 
-# Step 2: Install and update system packages
-./02_install_packages_debian.sh   # for Debian; installs my preferred .deb packages and R package system dependencies
-./02_install_packages_fedora.sh   # for Fedora; installs my preferred .rpm packages and R package system dependencies
+# Step 2: Install and update packages
+./02_install_packages_debian.sh   # for Debian; installs preferred .deb, R and Python packages
+./02_install_packages_fedora.sh   # for Fedora; installs preferred .rpm, R and Python packages
 
-# Step 3: Install and compile R packages
-./03_install_packages.R    # my preferred R packages
-
-# Step 4: Clone all other Github repos
-./04_git_clone_all.sh      # clones my personal repositories
+# Step 3: Clone all other Github repos
+./03_git_clone_all.sh      # clones my personal repositories
 ```
 
 # Warnings
