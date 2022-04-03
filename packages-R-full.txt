@@ -54,6 +54,8 @@ zen4R
 rnaturalearth
 sp
 sf
+spData
+cartography
 rtweet
 beepr
 groundhog
