@@ -63,3 +63,4 @@ groundhog
 checkpoint
 renv
 reticulate
+tidyverse
