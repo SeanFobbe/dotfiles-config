@@ -57,6 +57,7 @@ sf
 spData
 cartography
 maps
+rgdal
 rtweet
 beepr
 groundhog
