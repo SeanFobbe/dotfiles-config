@@ -59,6 +59,8 @@ spDataLarge
 cartography
 maps
 rgdal
+tmap
+ggmap
 rtweet
 beepr
 groundhog
