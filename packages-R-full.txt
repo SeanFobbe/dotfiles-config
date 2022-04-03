@@ -55,6 +55,7 @@ rnaturalearth
 sp
 sf
 spData
+spDataLarge
 cartography
 maps
 rgdal
