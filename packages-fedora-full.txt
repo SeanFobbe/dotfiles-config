@@ -42,3 +42,4 @@ newsboat
 xclip
 lm_sensors
 ShellCheck
+cloc
