@@ -51,3 +51,4 @@ newsboat
 xclip
 sensors-applet
 shellcheck
+cloc
