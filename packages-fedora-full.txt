@@ -43,3 +43,5 @@ xclip
 lm_sensors
 ShellCheck
 cloc
+cmake
+NLopt
