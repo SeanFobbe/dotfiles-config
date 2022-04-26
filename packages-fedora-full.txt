@@ -45,3 +45,4 @@ ShellCheck
 cloc
 cmake
 NLopt
+v8-devel
