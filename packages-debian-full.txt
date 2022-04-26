@@ -52,3 +52,4 @@ xclip
 sensors-applet
 shellcheck
 cloc
+libv8-dev
