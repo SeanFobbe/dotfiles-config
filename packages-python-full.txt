@@ -5,7 +5,7 @@ scikit-learn
 statsmodels
 seaborn
 matplotlib
-beautifoulsoup
+beautifulsoup
 jupyterlab
 notebook
 Pweave
