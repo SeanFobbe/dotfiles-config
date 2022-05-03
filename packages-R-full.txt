@@ -39,6 +39,7 @@ kableExtra
 rvest
 xml2
 targets
+tarchetypes
 pdftools
 readtext
 quanteda
