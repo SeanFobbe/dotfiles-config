@@ -44,6 +44,14 @@
   (package-refresh-contents))
 (package-install-selected-packages)
 
+
+;; Polymode for R
+
+;; associate polymode with Rmd files
+(add-to-list 'auto-mode-alist
+             '("\\.[rR]md\\'" . poly-gfm+r-mode))
+
+
 ;; Reftex
 (require 'reftex)
 (add-hook 'LaTeX-mode-hook 'turn-on-reftex)
