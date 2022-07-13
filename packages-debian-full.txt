@@ -54,3 +54,5 @@ shellcheck
 cloc
 libv8-dev
 libzmq3-dev
+ntfs-3g
+fuse
