@@ -47,4 +47,6 @@ cmake
 NLopt
 v8-devel
 zeromq-devel
+ntfs-3
+fuse
 
