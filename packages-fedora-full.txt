@@ -4,7 +4,7 @@ emacs
 emacs-ess
 texlive-scheme-full
 pandoc
-keepassx
+keepassxc
 python3
 conda
 R-core-devel
