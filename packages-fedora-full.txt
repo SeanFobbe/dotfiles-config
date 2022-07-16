@@ -49,3 +49,4 @@ zeromq-devel
 ntfs-3g
 fuse
 redland-devel
+python3-pip
