@@ -4,8 +4,7 @@ emacs
 emacs-ess
 texlive-scheme-full
 pandoc
-pandoc-citeproc
-keepass
+keepassx
 python3
 conda
 R-core-devel
@@ -47,6 +46,6 @@ cmake
 NLopt
 v8-devel
 zeromq-devel
-ntfs-3
+ntfs-3g
 fuse
 
