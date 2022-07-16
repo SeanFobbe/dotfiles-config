@@ -2,6 +2,7 @@ git
 jq
 emacs
 emacs-ess
+rstudio-desktop
 texlive-scheme-full
 pandoc
 keepassxc
