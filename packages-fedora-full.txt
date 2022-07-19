@@ -3,6 +3,7 @@ jq
 emacs
 emacs-ess
 rstudio-desktop
+libreoffice
 texlive-scheme-full
 pandoc
 keepassxc
