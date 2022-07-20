@@ -78,17 +78,6 @@
 
 
 
-
-;; Activate Flycheck in Shell Buffers
-(add-hook 'sh-mode-hook 'flycheck-mode)
-
-;; Activate Flycheck with lintr for R
-(add-hook 'after-init-hook #'global-flycheck-mode)
-  (add-hook 'ess-mode-hook
-            (lambda () (flycheck-mode t)))
-
-
-
  	
 ;; AucTeX Options
 (setq TeX-auto-save t)
