@@ -57,3 +57,4 @@ libv8-dev
 libzmq3-dev
 ntfs-3g
 fuse
+librdf0-dev
