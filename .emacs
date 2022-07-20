@@ -30,7 +30,7 @@
  '(inhibit-startup-screen t)
  '(org-agenda-files '("~/Sync/occlear/master.org"))
  '(package-selected-packages
-   '(uniquify-files csv-mode flycheck auctex markdown-mode elpy polymode poly-R poly-gfm))
+   '(auctex markdown-mode elpy polymode poly-R))
  '(save-place-mode t))
 (when (version<= "26.0.50" emacs-version )
   (global-display-line-numbers-mode))
