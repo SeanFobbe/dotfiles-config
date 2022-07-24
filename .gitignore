@@ -17,7 +17,6 @@
 # -*- mode: gitignore; -*-
 
 *~
-*/*~
 
 \#*\#
 /.emacs.desktop
