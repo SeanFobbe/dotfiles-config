@@ -1,5 +1,6 @@
 git
 jq
+vim
 emacs
 emacs-ess
 rstudio-desktop
