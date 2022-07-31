@@ -70,3 +70,4 @@ renv
 reticulate
 tidyverse
 datasauRus
+tictoc
