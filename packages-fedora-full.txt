@@ -54,3 +54,4 @@ fuse
 redland-devel
 python3-pip
 encfs
+lftp
