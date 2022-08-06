@@ -10,6 +10,7 @@ pandoc
 keepassxc
 python3
 conda
+R
 R-core-devel
 R-devel
 libxml2-devel
