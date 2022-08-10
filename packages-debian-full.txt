@@ -61,3 +61,4 @@ fuse
 librdf0-dev
 lftp
 hplip
+simple-scan
