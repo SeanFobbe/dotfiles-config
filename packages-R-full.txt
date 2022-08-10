@@ -36,6 +36,7 @@ knitr
 rmarkdown
 blogdown
 kableExtra
+RSelenium
 rvest
 xml2
 targets
