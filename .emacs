@@ -29,8 +29,7 @@
  '(global-visual-line-mode t)
  '(inhibit-startup-screen t)
  '(org-agenda-files '("~/Sync/occlear/master.org"))
- '(package-selected-packages
-   '(auctex markdown-mode elpy polymode poly-R))
+ '(package-selected-packages '(csv-mode auctex markdown-mode elpy polymode poly-R csv-mode))
  '(save-place-mode t))
 (when (version<= "26.0.50" emacs-version )
   (global-display-line-numbers-mode))
