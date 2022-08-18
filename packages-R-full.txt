@@ -48,6 +48,7 @@ quanteda.textmodels
 quanteda.textstats
 quanteda.textplots
 spacyr
+udpipe
 lda
 stm
 textcat
