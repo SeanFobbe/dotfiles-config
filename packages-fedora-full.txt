@@ -31,6 +31,7 @@ libsodium-devel
 openssl
 harfbuzz-devel
 fribidi-devel
+librsvg2-devel
 gimp
 ImageMagick
 ImageMagick-c++-devel
