@@ -46,6 +46,7 @@ libgl1-mesa-dri
 libglx-mesa0
 mesa-vulkan-drivers
 xserver-xorg-video-all
+librsvg2-dev
 cmatrix
 sl
 libaa-bin
