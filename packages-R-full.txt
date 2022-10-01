@@ -27,6 +27,7 @@ ggplot2
 ggraph
 qgraph
 ggrepel
+circlize
 stringi
 stringr
 mgsub
