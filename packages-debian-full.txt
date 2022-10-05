@@ -2,6 +2,7 @@ tree
 git
 jq
 curl
+pdfgrep
 emacs
 ess
 texlive-full
