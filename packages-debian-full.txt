@@ -5,6 +5,7 @@ curl
 pdfgrep
 emacs
 ess
+dict
 texlive-full
 pandoc
 pandoc-citeproc
