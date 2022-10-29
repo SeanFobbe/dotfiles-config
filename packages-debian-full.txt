@@ -3,6 +3,7 @@ git
 jq
 curl
 pdfgrep
+tre-agrep
 emacs
 ess
 dict
