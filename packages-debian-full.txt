@@ -38,6 +38,7 @@ libfribidi-dev
 vlc
 libavcodec-extra
 libdvdcss2
+shotwell
 gimp
 imagemagick
 tesseract-ocr
