@@ -30,10 +30,11 @@
  '(inhibit-startup-screen t)
  '(org-agenda-files '("~/Sync/occlear/master.org"))
  '(package-selected-packages
-   '(dictionary  csv-mode auctex markdown-mode elpy polymode poly-R csv-mode))
+   '(dictionary  csv-mode auctex markdown-mode elpy polymode poly-R csv-mode wrap-region))
  '(save-place-mode t))
 (when (version<= "26.0.50" emacs-version )
   (global-display-line-numbers-mode))
+
 
 ; Flash on error
 (setq visible-bell t)
@@ -43,7 +44,6 @@
 (unless package-archive-contents
   (package-refresh-contents))
 (package-install-selected-packages)
-
 
 
 ;; Reftex
