@@ -65,12 +65,8 @@ maps
 rgdal
 tmap
 ggmap
-rtweet
 beepr
-groundhog
-checkpoint
 renv
 reticulate
-tidyverse
 datasauRus
 tictoc
