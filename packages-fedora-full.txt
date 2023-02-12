@@ -39,6 +39,9 @@ tesseract
 tesseract-langpack-fra
 tesseract-langpack-deu
 tesseract-langpack-spa
+tesseract-langpack-chi_sim
+tesseract-langpack-ara
+tesseract-langpack-rus
 cmatrix
 sl
 aalib
