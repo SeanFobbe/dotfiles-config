@@ -46,6 +46,9 @@ tesseract-ocr
 tesseract-ocr-deu
 tesseract-ocr-fra
 tesseract-ocr-spa
+tesseract-ocr-ara
+tesseract-ocr-chi_sim
+tesseract-ocr-rus
 firmware-amd-graphics
 libgl1-mesa-dri
 libglx-mesa0
