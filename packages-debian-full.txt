@@ -39,6 +39,7 @@ libfribidi-dev
 vlc
 libavcodec-extra
 libdvdcss2
+diffpdf
 shotwell
 gimp
 imagemagick
