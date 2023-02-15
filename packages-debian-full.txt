@@ -7,6 +7,9 @@ tre-agrep
 emacs
 ess
 dict
+ispell
+wngerman
+ingerman
 jabref
 texlive-full
 pandoc
