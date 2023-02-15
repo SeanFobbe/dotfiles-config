@@ -10,6 +10,7 @@ dict
 ispell
 wngerman
 ingerman
+aspell-de
 jabref
 texlive-full
 pandoc
