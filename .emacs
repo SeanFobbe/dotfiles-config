@@ -40,6 +40,8 @@
 ; Flash on error
 (setq visible-bell t)
 
+; Add newline with C-n at end of buffer
+(setq next-line-add-newlines t)
 
 ;; Automatically install packages of not already present
 (unless package-archive-contents
