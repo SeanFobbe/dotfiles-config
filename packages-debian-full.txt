@@ -35,6 +35,10 @@ libcairo2-dev
 libpango1.0-dev
 libjpeg-dev
 libgif-dev
+librsvg2-dev
+libv8-dev
+libzmq3-dev
+librdf0-dev
 default-jdk
 gdal-bin
 proj-bin
@@ -60,7 +64,6 @@ libgl1-mesa-dri
 libglx-mesa0
 mesa-vulkan-drivers
 xserver-xorg-video-all
-librsvg2-dev
 cmatrix
 sl
 libaa-bin
@@ -69,11 +72,9 @@ xclip
 sensors-applet
 shellcheck
 cloc
-libv8-dev
-libzmq3-dev
 ntfs-3g
 fuse
-librdf0-dev
 lftp
 hplip
 simple-scan
+p7zip-full
