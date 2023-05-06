@@ -1,4 +1,6 @@
 git
+docker
+docker-compose
 jq
 vim
 emacs
