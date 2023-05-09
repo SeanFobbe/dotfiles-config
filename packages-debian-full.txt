@@ -81,3 +81,11 @@ lftp
 hplip
 simple-scan
 p7zip-full
+ca-certificates
+g++
+libtool
+libleptonica-dev
+automake
+make
+cmake
+pkg-config
