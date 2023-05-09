@@ -25,7 +25,7 @@ r-base-dev
 libatlas3-base
 libopenblas-base
 libxml2-dev
-libcurl4-openssl-dev
+libcurl4-gnutls-dev
 libssl-dev
 libmagick++-dev
 libpoppler-cpp-dev
