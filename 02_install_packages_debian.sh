@@ -21,11 +21,6 @@ sudo apt-get upgrade -y
 sudo apt-get -y install $(cat packages-debian-full.txt)
 
 
-# Install all R packages
-
-Rscript install_packages.R
-
-
 # Install all Python packages
 
 pip install $(cat packages-python-full.txt)
