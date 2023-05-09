@@ -1,5 +1,7 @@
 tree
 git
+pip
+docker
 jq
 curl
 pdfgrep
