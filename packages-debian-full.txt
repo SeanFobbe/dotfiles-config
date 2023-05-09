@@ -26,6 +26,10 @@ python3-pyqt5
 conda-package-handling
 r-base
 r-base-dev
+g++
+automake
+make
+cmake
 libatlas3-base
 libopenblas-base
 libxml2-dev
@@ -48,7 +52,11 @@ gdal-bin
 proj-bin
 libgdal-dev
 libharfbuzz-dev
-libfribidi-dev 
+libfribidi-dev
+p7zip-full
+ca-certificates
+libtool
+pkg-config
 vlc
 libavcodec-extra
 libdvdcss2
@@ -56,6 +64,7 @@ diffpdf
 shotwell
 gimp
 imagemagick
+libleptonica-dev
 tesseract-ocr
 tesseract-ocr-deu
 tesseract-ocr-fra
@@ -80,12 +89,3 @@ fuse
 lftp
 hplip
 simple-scan
-p7zip-full
-ca-certificates
-g++
-libtool
-libleptonica-dev
-automake
-make
-cmake
-pkg-config
