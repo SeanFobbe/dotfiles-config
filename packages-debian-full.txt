@@ -1,5 +1,6 @@
 tree
 git
+rsync
 pip
 docker
 docker-compose
