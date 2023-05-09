@@ -69,6 +69,7 @@ pkg-config
 vlc
 libavcodec-extra
 libdvdcss2
+regionset
 diffpdf
 shotwell
 gimp
