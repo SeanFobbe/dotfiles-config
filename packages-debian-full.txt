@@ -2,6 +2,7 @@ tree
 git
 pip
 docker
+docker-compose
 jq
 curl
 pdfgrep
