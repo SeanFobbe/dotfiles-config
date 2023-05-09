@@ -1,14 +1,21 @@
 #!/bin/bash
 
+
+# Update Package List
+
+sudo apt-get update
+
+sudo apt-get install software-properties-common
+
+sudo apt-get update
+
+
+
 # Add Repositories
 
 sudo apt-add-repository non-free
 sudo apt-add-repository contrib
 
-
-# Update Package List
-
-sudo apt-get update
 
 
 # Update System
