@@ -8,6 +8,7 @@ jq
 curl
 pdfgrep
 tre-agrep
+okular
 emacs
 ess
 dict
