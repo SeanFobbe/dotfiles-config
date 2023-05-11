@@ -21,6 +21,7 @@ texlive-full
 pandoc
 pandoc-citeproc
 libreoffice
+calibre
 keepassxc
 python3
 python3-pyqt5
