@@ -24,6 +24,7 @@ reshape2
 magick
 tidyverse
 ggplot2
+hexbin
 ggraph
 qgraph
 ggrepel
