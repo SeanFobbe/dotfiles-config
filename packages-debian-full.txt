@@ -35,6 +35,7 @@ cmake
 libatlas3-base
 libopenblas-base
 libxml2-dev
+libxml2-utils
 libcurl4-gnutls-dev
 libssl-dev
 libmagick++-dev
