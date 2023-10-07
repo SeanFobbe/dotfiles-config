@@ -48,6 +48,9 @@
   (package-refresh-contents))
 (package-install-selected-packages)
 
+;; Elpy options
+(setq elpy-rpc-python-command "python3")
+(setq python-shell-interpreter "python3")
 
 ;; Reftex
 (require 'reftex)
