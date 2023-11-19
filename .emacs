@@ -90,6 +90,10 @@
 (setq TeX-parse-self t)
 
 
+(require 'poly-R)
+;; this works but god knows why
+(add-to-list 'auto-mode-alist '("de\\..Rmd" . poly-R))
+
 
 ;;; uncomment for CJK utf-8 support for non-Asian users
 ;; (require 'un-define)
