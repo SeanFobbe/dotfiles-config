@@ -1,11 +1,13 @@
 tree
 git
 rsync
+rename
 pip
 docker
 docker-compose
 jq
 curl
+linkchecker
 pdfgrep
 tre-agrep
 okular
