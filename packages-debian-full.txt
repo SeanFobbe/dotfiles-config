@@ -2,6 +2,7 @@ tree
 git
 rsync
 rename
+aha
 pip
 docker
 docker-compose
