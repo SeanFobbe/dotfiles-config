@@ -1,4 +1,7 @@
-browser "firefox %u"
 auto-reload yes
+browser "firefox --new-window %u"
+datetime-format "%Y-%m-%d"
+include /usr/share/doc/newsboat/contrib/colorschemes/nord
 reload-time 120
 reload-threads 2
+text-width 100
