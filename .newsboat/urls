@@ -24,7 +24,13 @@ https://community.beck.de/taxonomy/term/42421/all/feed  "Legal (German)"  # Beck
 #=== Technology ===
 
 https://feeds.arstechnica.com/arstechnica/index		"Technology"  # Ars Technica All
-https://feeds.arstechnica.com/arstechnica/features	"Technology"  # Ars Tedchnica Long
+https://feeds.arstechnica.com/arstechnica/features	"Technology"  # Ars Technica Long
+https://www.theregister.com/headlines.atom		"Technology"  # Register All
+https://www.theregister.com/off_prem/headlines.atom	"Technology"  # Register Off Prem
+https://www.theregister.com/on_prem/headlines.atom	"Technology"  # Register On Prem
+https://www.theregister.com/software/headlines.atom	"Technology"  # Register Software
+https://www.theregister.com/security/headlines.atom	"Technology"  # Register Security
+https://www.theregister.com/offbeat/headlines.atom	"Technology"  # Register Offbeat
 https://www.web3isgoinggreat.com/feed.xml		"Technology"  # Molly White
 https://www.citationneeded.news/rss/			"Technology"  # Molly White
 
