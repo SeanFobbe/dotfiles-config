@@ -4,15 +4,20 @@
 
 
 
-#=== News (German)  ===
+#=== News  ===
 
-https://www.tagesschau.de/xml/atom/	"News (German)"  # Tagesschau
-https://www.lto.de/rss/feed.xml				"Legal (German)"  # Legal Tribune Online
-https://netzpolitik.org/feed		"News (German)"  # Netzpolitik
+http://feeds.bbci.co.uk/news/rss.xml		"News"  # BBC Top
+http://feeds.bbci.co.uk/news/world/rss.xml	"News"  # BBC World
+https://www.theguardian.com/europe/rss		"News"  # Guardian Europe
+https://www.tagesschau.de/xml/atom/		"News"  # Tagesschau
+https://www.lto.de/rss/feed.xml			"News"  # Legal Tribune Online
+https://netzpolitik.org/feed			"News"  # Netzpolitik
+https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml	"News"  # Libération Tous les article
+https://www.liberation.fr/arc/outboundfeeds/rss-all/category/international/?outputType=xml   "News"  # Libération International
 
 
 
-#==== Legal (German)  ===
+#==== Legal  ===
 
 http://lawblog.de/feed/					"Legal (German)"  # Udo Vetter
 https://community.beck.de/taxonomy/term/54627/all/feed	"Legal (German)"  # Beck Bürgerliches Recht
