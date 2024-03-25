@@ -88,6 +88,8 @@
 ;; AucTeX Options
 (setq TeX-auto-save t)
 (setq TeX-parse-self t)
+(add-hook 'LaTeX-mode-hook 'prettify-symbols-mode)
+
 
 
 (require 'poly-R)
