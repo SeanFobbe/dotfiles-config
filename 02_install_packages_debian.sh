@@ -5,7 +5,7 @@
 
 sudo apt-get update
 
-sudo apt-get install software-properties-common
+sudo apt-get install software-properties-common -y
 
 sudo apt-get update
 
@@ -25,9 +25,6 @@ sudo apt-get upgrade -y
 
 # Install all Debian packages
 
-sudo apt-get -y install $(cat packages-debian-full.txt)
+sudo apt-get install $(cat packages-debian-11-full.txt) -y
 
 
-# Install all Python packages
-
-pip install $(cat packages-python-full.txt)
