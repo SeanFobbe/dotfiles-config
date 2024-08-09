@@ -25,6 +25,6 @@ sudo apt-get upgrade -y
 
 # Install all Debian packages
 
-sudo apt-get install $(cat packages-debian-11-full.txt) -y
+sudo apt-get install $(cat packages-debian-12-full.txt) -y
 
 
