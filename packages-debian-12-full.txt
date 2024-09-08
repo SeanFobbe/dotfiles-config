@@ -12,6 +12,7 @@ linkchecker
 pdfgrep
 tre-agrep
 okular
+evince
 emacs
 elpa-ess
 dict
