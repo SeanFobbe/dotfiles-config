@@ -22,7 +22,6 @@ aspell-de
 jabref
 texlive-full
 pandoc
-pandoc-citeproc
 libreoffice
 calibre
 keepassxc
@@ -36,7 +35,6 @@ automake
 make
 cmake
 libatlas3-base
-libopenblas-base
 libxml2-dev
 libxml2-utils
 libcurl4-gnutls-dev
@@ -56,11 +54,7 @@ librdf0-dev
 lib32gcc-s1
 lib32stdc++6
 libc6-i386
-libclang-11-dev
-libclang-common-11-dev
 libclang-dev
-libclang1-11
-libobjc-10-dev
 libobjc4
 default-jdk
 gdal-bin
