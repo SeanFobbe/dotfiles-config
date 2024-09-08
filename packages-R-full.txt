@@ -58,13 +58,9 @@ textcat
 keyring
 zen4R
 rnaturalearth
-sp
 sf
-spData
-spDataLarge
 cartography
 maps
-rgdal
 tmap
 ggmap
 beepr
