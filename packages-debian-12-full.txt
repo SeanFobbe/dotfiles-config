@@ -57,6 +57,7 @@ lib32stdc++6
 libc6-i386
 libclang-dev
 libobjc4
+libtbb-dev
 default-jdk
 gdal-bin
 proj-bin
