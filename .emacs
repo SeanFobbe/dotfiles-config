@@ -91,10 +91,17 @@
 (add-hook 'LaTeX-mode-hook 'prettify-symbols-mode)
 
 
-
+;; poly-R
 (require 'poly-R)
 ;; this works but god knows why
 (add-to-list 'auto-mode-alist '("de\\..Rmd" . poly-R))
+
+
+;; sparql-mode
+(autoload 'sparql-mode "sparql-mode.el"
+    "Major mode for editing SPARQL files" t)
+(add-to-list 'auto-mode-alist '("\\.sparql$" . sparql-mode))
+(add-to-list 'auto-mode-alist '("\\.rq$" . sparql-mode))
 
 
 ;;; uncomment for CJK utf-8 support for non-Asian users
