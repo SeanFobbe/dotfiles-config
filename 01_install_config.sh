@@ -69,7 +69,7 @@ git config --global init.defaultBranch main
 git config --global color.ui auto
 git config --global receive.fsckObjects true
 git config --global core.excludesfile ~/.gitignore
-
+git config --global credential.helper /usr/share/doc/git/contrib/credential/libsecret/git-credential-libsecret
 
 # === Deactivate Power Save Mode ===
 
