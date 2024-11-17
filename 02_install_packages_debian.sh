@@ -28,3 +28,5 @@ sudo apt-get upgrade -y
 sudo apt-get install $(cat packages-debian-12-full.txt) -y
 
 
+# Compile libsecret git credential helper
+sudo make --directory=/usr/share/doc/git/contrib/credential/libsecret
