@@ -91,13 +91,17 @@
 (add-hook 'LaTeX-mode-hook 'prettify-symbols-mode)
 
 
-;; poly-R
+;; poly-R Options
 (require 'poly-R)
 ;; this works but god knows why
 (add-to-list 'auto-mode-alist '("de\\..Rmd" . poly-R))
 
 
-;; sparql-mode
+;; Dictionary Options
+(setq dictionary-server "localhost")
+
+
+;; sparql-mode Options
 (autoload 'sparql-mode "sparql-mode.el"
     "Major mode for editing SPARQL files" t)
 (add-to-list 'auto-mode-alist '("\\.sparql$" . sparql-mode))
