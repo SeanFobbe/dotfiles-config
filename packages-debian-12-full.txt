@@ -22,7 +22,6 @@ dict-wn
 dict-jargon
 dict-foldoc
 dict-devil
-dict-elements
 dict-vera
 ispell
 wngerman
