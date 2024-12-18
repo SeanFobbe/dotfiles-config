@@ -110,6 +110,8 @@ https://fedoramagazine.org/feed/	"Operating Systems"  # Fedora
 https://www.debian.org/News/news	"Operating Systems"  # Debian
 
 #=== Academic Journals ===
+https://www.cambridge.org/core/rss/product/id/3CCFB3BC2DB31CE79FBA01995D5B6028 "Academic Journals"  # American Journal of International Law
+https://academic.oup.com/rss/site_5452/3313.xml "Academic Journals"  # European Journal of International Law
 https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jpra&type=etoc&feed=rss "Academic Journals"  # Journal of Peace Research
 https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jcrb&type=etoc&feed=rss "Academic Journals"  # Journal of Conflict Resolution
 https://onlinelibrary.wiley.com/feed/17401461/most-recent "Academic Journals"  # Journal of Empirical Legal Studies
