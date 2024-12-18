@@ -109,8 +109,10 @@ https://www.quantamagazine.org/feed	"General Science"  # Quanta Magazine
 https://fedoramagazine.org/feed/	"Operating Systems"  # Fedora
 https://www.debian.org/News/news	"Operating Systems"  # Debian
 
-
-
+#=== Academic Jouurnals ===
+https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jpra&type=etoc&feed=rss "Academic Journals"  # Journal of Peace Research
+https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jcrb&type=etoc&feed=rss
+"Academic Journals"  # Journal of Conflict Resolution
 
 #=== Infosec  ===
 
