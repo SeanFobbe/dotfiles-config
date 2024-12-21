@@ -112,7 +112,7 @@
 
 ;; Custom Keybindings
 (global-set-key (kbd "M-#") 'dictionary-lookup-definition)
-
+(global-set-key [remap dabbrev-expand] 'hippie-expand)
 
 
 
