@@ -83,7 +83,8 @@
         ("headlessfullcite" "[{")))
 
 
-
+;; Company Mode
+(setq ess-use-company t)
  	
 ;; AucTeX Options
 (setq TeX-auto-save t)
