@@ -4,5 +4,5 @@ datetime-format "%Y-%m-%d"
 include /usr/share/doc/newsboat/contrib/colorschemes/nord
 max-items 100
 reload-time 120
-reload-threads 2
+reload-threads 4
 text-width 100
