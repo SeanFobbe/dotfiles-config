@@ -153,9 +153,13 @@ https://onlinelibrary.wiley.com/feed/14680262/most-recent # Econometrica
 https://www.nature.com/nature.rss "Academic Journals"  # Nature
 https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science "Academic Journals"  # Science
 
+https://academic.oup.com/rss/site_6513/4147.xml "Academic Journals"  # Journal of the Royal Statistical Society, Series B (Statistical Methodology)
 https://www.tandfonline.com/feed/rss/uasa20 "Academic Journals"  # Journal of the American Statistical Association (JASA)
+https://academic.oup.com/rss/site_5265/3131.xml "Academic Journals"  # Biometrika
+https://www.jmlr.org/jmlr.xml "Academic Journals"  # Journal of Machine Learning Research (JMLR)
 https://joss.theoj.org/papers/published.atom "Academic Journals"  # Journal of Open Source Software (JOSS)
 https://journal.r-project.org/articles.xml "Academic Journals"  # The R Journal (RJ)
+https://www.jstatsoft.org/atom "Academic Journals"  # Journal of Statistical Software (JSS)
 
 https://germanlawjournal.com/feed/ "Academic Journals"  # German Law Journal (GLJ)
 https://www.languageandlaw.eu/jll/gateway/plugin/WebFeedGatewayPlugin/rss2 "Academic Journals"  # International Journal of Language and Law (IJLL)
