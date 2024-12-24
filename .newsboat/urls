@@ -106,7 +106,9 @@ https://www.quantamagazine.org/feed	"General Science"  # Quanta Magazine
 https://fedoramagazine.org/feed/	"Operating Systems"  # Fedora
 https://www.debian.org/News/news	"Operating Systems"  # Debian
 
+
 #=== Academic Journals ===
+
 https://www.cambridge.org/core/rss/product/id/3CCFB3BC2DB31CE79FBA01995D5B6028 "Academic Journals"  # American Journal of International Law (AJIL)
 https://academic.oup.com/rss/site_5452/3313.xml "Academic Journals"  # European Journal of International Law (EJIL)
 https://www.cambridge.org/core/rss/product/id/9D97A65DF810EA31FF7D83F3354AC3B7 "Academic Journals"  # International and Comparative Law Quarterly (ICLQ)
@@ -155,6 +157,7 @@ https://www.languageandlaw.eu/jll/gateway/plugin/WebFeedGatewayPlugin/rss2 "Acad
 
 
 #=== Deutschsprachige Rechtswissenschaften ===
+
 https://nsw-online.com/article/feed/ "Deutschsprachige Rechtswissenschaften" # Neue Strafrechtswissenschaft
 https://ordnungderwissenschaft.de/start/aktuelle-ausgabe/feed "Deutschsprachige Rechtswissenschaften" # Ordnung der Wissenschaft
 https://www.kriminologie.de/index.php/krimoj/gateway/plugin/WebFeedGatewayPlugin/rss2 "Deutschsprachige Rechtswissenschaften" # Kriminologie - das Online Journal (KrimOJ)
@@ -165,6 +168,7 @@ https://voelkerrechtsblog.org/feed "Deutschsprachige Rechtswissenschaften" # Vö
 https://rechtsempirie.de/feed  "Deutschsprachige Rechtswissenschaften" # Rechtsempirie Blog
 https://www.juwiss.de/feed/ "Deutschsprachige Rechtswissenschaften" # Juwiss Blog
 https://sui-generis.ch/feed "Deutschsprachige Rechtswissenschaften" # Sui Generis
+
 
 #=== Infosec  ===
 
