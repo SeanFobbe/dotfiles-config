@@ -117,6 +117,7 @@ https://journals.law.harvard.edu/ilj/feed/ "Academic Journals" # Harvard Journal
 https://openyls.law.yale.edu/feed/rss_2.0/20.500.13051/5 "Academic Journals" # Yale Journal of International Law (YJIL)
 https://chicagounbound.uchicago.edu/cjil/recent.rss "Academic Journals" # Chicago Journal of International Law (CJIL)
 https://academic.oup.com/rss/site_5201/3066.xml "Academic Journals" # Journal of International Criminal Justice (JICJ)
+https://germanlawjournal.com/feed/ "Academic Journals"  # German Law Journal (GLJ)
 
 https://muse.jhu.edu/feeds/latest_articles?jid=77 "Academic Journals"  # Human Rights Quarterly (HRQ)
 https://academic.oup.com/rss/site_5167/3031.xml "Academic Journals" # Human Rights Law Review (HRLR)
@@ -138,7 +139,9 @@ https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=bpia&type=
 https://www.cambridge.org/core/rss/product/id/3B772FE5B36675FAF450722547F58DF7 "Academic Journals" # Review of International Studies (RIS)
 
 https://onlinelibrary.wiley.com/feed/17401461/most-recent "Academic Journals"  # Journal of Empirical Legal Studies (JELS)
+https://publicera.kb.se/ejels/gateway/plugin/WebFeedGatewayPlugin/rss2 "Academic Journals"  # European Journal of Empirical Legal Studies (EJELS)
 https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=lexa&type=etoc&feed=rss  "Academic Journals"  # Journal of Law and Empirical Analysis (JLEA)
+https://www.languageandlaw.eu/jll/gateway/plugin/WebFeedGatewayPlugin/rss2 "Academic Journals"  # International Journal of Language and Law (IJLL)
 
 https://onlinelibrary.wiley.com/feed/15405907/most-recent "Academic Journals"  # American Journal of Political Science (AJPS)
 https://www.cambridge.org/core/rss/product/id/833A7242AC7B607BA7F6168DA072DB3B "Academic Journals"  # American Political Science Review (APSR)
@@ -161,8 +164,8 @@ https://joss.theoj.org/papers/published.atom "Academic Journals"  # Journal of O
 https://journal.r-project.org/articles.xml "Academic Journals"  # The R Journal (RJ)
 https://www.jstatsoft.org/atom "Academic Journals"  # Journal of Statistical Software (JSS)
 
-https://germanlawjournal.com/feed/ "Academic Journals"  # German Law Journal (GLJ)
-https://www.languageandlaw.eu/jll/gateway/plugin/WebFeedGatewayPlugin/rss2 "Academic Journals"  # International Journal of Language and Law (IJLL)
+
+
 
 
 #=== Deutschsprachige Rechtswissenschaften ===
