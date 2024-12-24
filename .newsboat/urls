@@ -149,10 +149,14 @@ https://onlinelibrary.wiley.com/feed/14680262/most-recent # Econometrica
 https://www.tandfonline.com/feed/rss/uasa20 "Academic Journals"  # Journal of the American Statistical Association (JASA)
 
 
-#=== Deutsche Rechtswissenschaften ===
-https://nsw-online.com/article/feed/ "Deutsche Rechtswissenschaften" # Neue Strafrechtswissenschaft
-https://ordnungderwissenschaft.de/start/aktuelle-ausgabe/feed "Deutsche Rechtswissenschaften" # Ordnung der Wissenschaft
-https://rechtsempirie.de/feed  "Deutsche Rechtswissenschaften" # Rechtsempirie Blog
+#=== Deutschsprachige Rechtswissenschaften ===
+https://nsw-online.com/article/feed/ "Deutschsprachige Rechtswissenschaften" # Neue Strafrechtswissenschaft
+https://ordnungderwissenschaft.de/start/aktuelle-ausgabe/feed "Deutschsprachige Rechtswissenschaften" # Ordnung der Wissenschaft
+https://www.kriminologie.de/index.php/krimoj/gateway/plugin/WebFeedGatewayPlugin/rss2 "Deutschsprachige Rechtswissenschaften" # Kriminologie - das Online Journal (KrimOJ)
+https://rg.lhlt.mpg.de/index.php/rg/gateway/plugin/WebFeedGatewayPlugin/rss2 "Deutschsprachige Rechtswissenschaften" # Rechtsgeschichte (RG)
+https://verfassungsblog.de/feed "Deutschsprachige Rechtswissenschaften" # Verfassungsblog
+https://rechtsempirie.de/feed  "Deutschsprachige Rechtswissenschaften" # Rechtsempirie Blog
+https://sui-generis.ch/feed "Deutschsprachige Rechtswissenschaften" # Sui Generis
 
 #=== Infosec  ===
 
