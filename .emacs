@@ -26,6 +26,8 @@
  '(csv-align-style 'auto)
  '(custom-enabled-themes '(wombat))
  '(diff-switches "-u")
+ '(dired-listing-switches "-alh")
+ '(dired-use-ls-dired t)
  '(global-auto-revert-mode t)
  '(global-display-line-numbers-mode t)
  '(global-visual-line-mode t)
