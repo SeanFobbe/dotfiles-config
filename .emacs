@@ -23,6 +23,7 @@
  '(ansi-color-faces-vector
    [default default default italic underline success warning error])
  '(auth-source-save-behavior nil)
+ '(csv-align-max-width 10)
  '(csv-align-style 'auto)
  '(custom-enabled-themes '(wombat))
  '(diff-switches "-u")
