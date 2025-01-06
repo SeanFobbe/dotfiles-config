@@ -33,6 +33,7 @@ pandoc
 libreoffice
 calibre
 keepassxc
+seahorse
 libsecret-1-0
 libsecret-1-dev
 libglib2.0-dev
