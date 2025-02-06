@@ -88,8 +88,8 @@
 
 
 ;; Company Mode
-(add-hook 'after-init-hook 'global-company-mode)
-(setq ess-use-company t)
+;(add-hook 'after-init-hook 'global-company-mode)
+;(setq ess-use-company t)
  	
 ;; AucTeX Options
 (setq TeX-auto-save t)
