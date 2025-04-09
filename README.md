@@ -1,3 +1,9 @@
+# ATTENTION: Project moved to Codeberg
+
+Development of this project continues on Codeberg: https://codeberg.org/seanfobbe/dotfiles-config
+
+The GitHub repository will remain accessible as a read-only version.
+
 # Configuration and Dotfiles for Linux
 
 This is a repository to store dotfiles and install scripts for my Linux configurations on Fedora and Debian.
